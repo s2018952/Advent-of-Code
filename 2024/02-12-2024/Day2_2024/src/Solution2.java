@@ -21,6 +21,7 @@ public class Solution2 {
             }
             this.records.add(record);
         }
+        scanner.close();
     }
 
     public void getSolution() {

@@ -20,6 +20,7 @@ public class Solution3 {
             }
             this.records.add(record);
         }
+        scanner.close();
     }
 
     public void getSolution() {
