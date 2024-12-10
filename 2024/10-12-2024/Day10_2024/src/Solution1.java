@@ -31,10 +31,10 @@ public class Solution1 {
     }
 
     public void getSolution() {
-        int count = getAllPathsToTop();
+        int count = getTotalReachableTops();
         System.out.println("Solution 1: " + count);
     }
-    private int getAllPathsToTop() {
+    private int getTotalReachableTops() {
         int total = 0;
         for (int[] indices : this.zeroLocations) {
             int toAdd = reachableTops(indices[0],indices[1]).size();
