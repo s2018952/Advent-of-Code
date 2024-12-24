@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12a85e06-e916-4357-b9ec-74e824b0dcff" name="Changes" comment="" />
+    <list default="true" id="12a85e06-e916-4357-b9ec-74e824b0dcff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/Day24_2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/example2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/src/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-12-2024/Day24_2024/src/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
